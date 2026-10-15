@@ -1,0 +1,6 @@
+{
+  "name": "OFII Monitoring System",
+  "description": "Internal logistics and shipment monitoring portal for Orient Freight International, Inc. with Client Management and Forwarding to Dispatch notification workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
